@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BugHAsRevenge
+- 👋 Hi, I’m @BugHasRevenge
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on minecraft things
